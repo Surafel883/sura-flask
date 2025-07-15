@@ -1,0 +1,83 @@
+{
+  "40349585": {
+    "name": "worku",
+    "age": "22",
+    "address": "6n305",
+    "idnumber": "85232000.",
+    "profile": "download_1.webp",
+    "id_front": "OIP.webp",
+    "id_back": "download.webp",
+    "balance": 1219.2,
+    "transactions": [
+      {
+        "desc": "Deposited 1111.0 Birr",
+        "date": "2025-07-06 09:50:15",
+        "balance": 1219.2
+      },
+      {
+        "desc": "Sent 50.0 to 62839728 (Fee: 1.00)",
+        "date": "2025-07-05 10:25:16",
+        "balance": 108.19999999999999
+      },
+      {
+        "desc": "Sent 20.0 to 28541416 (Fee: 0.40)",
+        "date": "2025-07-05 10:21:06",
+        "balance": 159.2
+      },
+      {
+        "desc": "Withdrew 20.0 Birr (Fee: 0.40)",
+        "date": "2025-07-05 10:20:35",
+        "balance": 179.6
+      },
+      {
+        "desc": "Deposited 200.0 Birr",
+        "date": "2025-07-05 10:19:22",
+        "balance": 200.0
+      }
+    ]
+  },
+  "28541416": {
+    "name": "ssss",
+    "age": "52",
+    "address": "6n305",
+    "idnumber": "85232000.",
+    "profile": "download.webp",
+    "id_front": "OIP.webp",
+    "id_back": "download_1.webp",
+    "balance": 220.0,
+    "transactions": [
+      {
+        "desc": "Received 20.0 from 40349585",
+        "date": "2025-07-05 10:21:06",
+        "balance": 220.0
+      },
+      {
+        "desc": "Deposited 200.0 Birr",
+        "date": "2025-07-05 10:20:24",
+        "balance": 200.0
+      }
+    ]
+  },
+  "62839728": {
+    "name": "ww",
+    "age": "22",
+    "address": "vbn",
+    "idnumber": "7420233",
+    "profile": "OIP_1.webp",
+    "id_front": "OIP.webp",
+    "id_back": "OIP.webp",
+    "balance": 250.0,
+    "transactions": [
+      {
+        "desc": "Received 50.0 from 40349585",
+        "date": "2025-07-05 10:25:16",
+        "balance": 250.0
+      },
+      {
+        "desc": "Deposited 200.0 Birr",
+        "date": "2025-07-05 10:24:21",
+        "balance": 200.0
+      }
+    ]
+  }
+}
